@@ -1,0 +1,12 @@
+{
+	"extensions":
+	[
+		"zul",
+		"xml",
+		"xsd",
+		"xslt",
+		"svg",
+		"plist",
+		"sublime-snippet"
+	]
+}

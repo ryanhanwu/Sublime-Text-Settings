@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 flow.exec(function() {
-    ${1:doSth}("xxx", this);
+    ${1:doSth}("name", this);
 }, function(error) {
 
 });
