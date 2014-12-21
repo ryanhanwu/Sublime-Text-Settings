@@ -1,4 +1,5 @@
 {
+	"auto_upgrade": true,
 	"installed_packages":
 	[
 		"Alignment",
@@ -8,11 +9,13 @@
 		"Autoprefixer",
 		"BracketHighlighter",
 		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
 		"EJS",
 		"Emmet",
 		"Emmet Css Snippets",
 		"EncodingHelper",
 		"Gutter Color",
+		"Hopscotch Color Scheme",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"Indent XML",
@@ -22,9 +25,11 @@
 		"JsFormat",
 		"LESS",
 		"LiveReload",
+		"LiveStyle",
 		"MacTerminal",
 		"Mocha Snippets",
 		"Pretty YAML",
+		"RawLineEdit",
 		"Sass",
 		"SassBeautify",
 		"SCSS",
