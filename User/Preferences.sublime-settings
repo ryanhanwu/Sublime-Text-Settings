@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Hopscotch (SL).tmTheme",
+	"color_scheme": "Packages/User/Hopscotch (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 17,
 	"highlight_line": true,

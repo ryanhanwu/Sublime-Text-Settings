@@ -1,5 +1,13 @@
 {
 	"auto_upgrade": true,
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -28,6 +36,7 @@
 		"LiveStyle",
 		"MacTerminal",
 		"Mocha Snippets",
+		"Package Control",
 		"Pretty YAML",
 		"RawLineEdit",
 		"Sass",
