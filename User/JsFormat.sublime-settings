@@ -1,0 +1,4 @@
+{
+    // exposed jsbeautifier options
+    "format_on_save": true
+}

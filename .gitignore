@@ -1,4 +1,4 @@
 *.last-run
-*.system-ca-bundle
 *.cache
 *.DS_Store
+*.*-ca-bundle
