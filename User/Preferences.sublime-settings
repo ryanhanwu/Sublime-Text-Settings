@@ -2,10 +2,12 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Hopscotch (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 20,
+	"font_size": 17,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"JavaScriptNext - ES6 Syntax",
+		"LiveReload"
 	],
 	"indent_guide_options":
 	[

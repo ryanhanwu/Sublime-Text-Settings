@@ -10,7 +10,11 @@
 		"AngularJS",
 		"AutoFileName",
 		"Autoprefixer",
+		"Babel",
+		"Better CoffeeScript",
 		"BracketHighlighter",
+		"CoffeeComplete Plus (Autocompletion)",
+		"DashDoc",
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
 		"EJS",
@@ -40,14 +44,13 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-coffeelint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SyncedSideBar",
 		"SyncedSidebarBg",
 		"TernJS",
-		"Theme - Flatland",
-		"Theme - Soda",
 		"TrailingSpaces"
 	]
 }
