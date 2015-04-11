@@ -3,11 +3,6 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -35,6 +30,7 @@
 		"LiveReload",
 		"LiveStyle",
 		"MacTerminal",
+		"Markdown Preview",
 		"Mocha Snippets",
 		"Package Control",
 		"Pretty YAML",
@@ -48,6 +44,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SyncedSideBar",
+		"SyncedSidebarBg",
 		"TernJS",
 		"Theme - Flatland",
 		"Theme - Soda",
