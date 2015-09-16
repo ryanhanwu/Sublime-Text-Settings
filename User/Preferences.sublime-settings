@@ -8,8 +8,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"LiveReload",
-		"GitGutter-Edge"
+		"GitGutter-Edge",
+		"JavaScriptNext - ES6 Syntax",
+		"LiveReload"
 	],
 	"indent_guide_options":
 	[
@@ -17,6 +18,11 @@
 		"draw_active"
 	],
 	"indent_to_bracket": true,
+	"index_exclude_patterns":
+	[
+		".editorconfig",
+		"*.log"
+	],
 	"match_brackets_angle": true,
 	"show_encoding": true,
 	"tab_size": 2,
