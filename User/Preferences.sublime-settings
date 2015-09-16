@@ -8,9 +8,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"GitGutter-Edge",
 		"JavaScriptNext - ES6 Syntax",
-		"LiveReload"
+		"LiveReload",
+		"GitGutter-Edge",
+		"Sass"
 	],
 	"indent_guide_options":
 	[
