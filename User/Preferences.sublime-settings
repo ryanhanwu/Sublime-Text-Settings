@@ -1,12 +1,13 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+	"color_scheme": "Packages/User/Hopscotch (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 15,
+	"font_size": 24,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"JavaScriptNext - ES6 Syntax"
+		"JavaScriptNext - ES6 Syntax",
+		"LiveReload"
 	],
 	"indent_guide_options":
 	[
@@ -17,5 +18,6 @@
 	"match_brackets_angle": true,
 	"show_encoding": true,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
