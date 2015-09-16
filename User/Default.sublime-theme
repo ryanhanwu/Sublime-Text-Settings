@@ -1,66 +1,66 @@
-[{
-		"class": "tree_row",
-		"layer0.texture": "Theme - Default/row_highlight_dark.png",
-		"layer0.tint": [
-			100,
-			91,
-			99
-		]
-	}, {
-		"class": "sidebar_container",
-		"layer0.opacity": 1.0,
-		"layer0.tint": [
-			100,
-			91,
-			99
-		]
-	}, {
-		"class": "sidebar_tree",
-		"dark_content": true,
-		"layer0.opacity": 1,
-		"layer0.tint": [
-			50,
-			41,
-			49
-		]
-	}, {
-		"class": "sidebar_label",
-		"color": [192, 197, 203],
-		"font.bold": false,
-		"font.size": 15
-	}, {
-		"class": "sidebar_label",
-		"parents": [{
-			"class": "tree_row",
-			"attributes": ["hover"]
-		}],
-		"color": [255, 255, 255]
-	},
-
-	{
-		"class": "sidebar_heading",
-		"shadow_offset": [
-			0,
-			0
-		]
-	}, {
-		"class": "disclosure_button_control",
-		"layer0.tint": [
-			100,
-			91,
-			99
-		],
-		"layer1.tint": [
-			100,
-			91,
-			99
-		]
-	}, {
-		"class": "sidebar_heading",
-		"color": [
-			140,
-			131,
-			139
-		]
-	}
+[
+    {
+        "class": "tree_row",
+        "layer0.texture": "Theme - Default/row_highlight_dark.png",
+        "layer0.tint": [
+            100,
+            91,
+            99
+        ]
+    },
+    {
+        "class": "sidebar_container",
+        "layer0.opacity": 1.0,
+        "layer0.tint": [
+            100,
+            91,
+            99
+        ]
+    },
+    {
+        "class": "sidebar_tree",
+        "dark_content": true,
+        "layer0.opacity": 1,
+        "layer0.tint": [
+            50,
+            41,
+            49
+        ]
+    },
+    {
+        "class": "sidebar_label",
+        "color": [
+            200,
+            200,
+            200
+        ]
+    },
+    {
+        "class": "sidebar_heading",
+        "shadow_offset": [
+            0,
+            0
+        ]
+    },
+    {
+        "class": "disclosure_button_control",
+        "layer0.tint": [
+            100,
+            91,
+            99
+        ],
+        "layer1.tint": [
+            100,
+            91,
+            99
+        ]
+    },
+    {
+        "class": "sidebar_heading",
+        "color": [
+            140,
+            131,
+            139
+        ]
+    }
 ]
