@@ -3,6 +3,13 @@
 	{
 		"keys": ["ctrl+super+z"],
 		"command": "sublimelinter_show_all_errors"
+	}, {
+		"keys": ["super+alt+r"],
+		"command": "show_panel",
+		"args": {
+			"panel": "replace",
+			"reverse": false
+		}
 	}
 
 ]
