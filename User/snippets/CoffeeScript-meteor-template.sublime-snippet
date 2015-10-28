@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+Template.${1:this}.onCreated () ->
+
+Template.${1:this}.onRendered () ->
+
+Template.${1:this}.onDestroyed () ->
+
+Template.${1:this}.helpers
+  init: () ->
+
+Template.${1:this}.events
+  "click": () ->
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>Template</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.coffee</scope>
+</snippet>
