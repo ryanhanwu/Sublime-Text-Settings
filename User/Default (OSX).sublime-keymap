@@ -1,6 +1,7 @@
-[
-
-	{
+[{
+		"keys": ["super+alt+a"],
+		"command": "alignment"
+	}, {
 		"keys": ["ctrl+super+z"],
 		"command": "sublimelinter_show_all_errors"
 	}, {
