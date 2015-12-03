@@ -17,6 +17,7 @@
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"CoffeeComplete Plus (Autocompletion)",
+		"Commando",
 		"CSS Format",
 		"DashDoc",
 		"Diffy",
@@ -30,7 +31,6 @@
 		"GitGutter-Edge",
 		"GitSavvy",
 		"Gutter Color",
-		"Hopscotch Color Scheme",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"Indent XML",
@@ -65,6 +65,7 @@
 		"SyncedSidebarBg",
 		"Syntax Highlighting for Sass",
 		"TernJS",
+		"Theme - Cobalt2",
 		"TrailingSpaces"
 	]
 }
