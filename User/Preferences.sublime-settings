@@ -1,16 +1,20 @@
 {
+	"added_words":
+	[
+		"Rhizr",
+		"Edlab"
+	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Hopscotch (SL).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
-	"font_size": 20,
+	"font_size": 21,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"AngularJS",
 		"Diffy",
-		"GitGutter-Edge",
-		"JavaScriptNext - ES6 Syntax",
 		"LiveReload",
 		"Sass"
 	],
@@ -22,8 +26,10 @@
 	"indent_to_bracket": true,
 	"index_exclude_patterns":
 	[
+		"/Users/ryanwu/Downloads/siteace/.meteor/local*",
+		"*.log",
 		".editorconfig",
-		"*.log"
+		"/Users/ryanwu/workspace/edlab-cas/server*"
 	],
 	"match_brackets_angle": true,
 	"show_encoding": true,

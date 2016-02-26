@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-function(req, res, next) {
+function() {
 
 }
 ]]></content>
@@ -8,5 +8,5 @@ function(req, res, next) {
   <tabTrigger>fun</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>source.js</scope>
-  <description>Route Callback</description>
+  <description>Simple</description>
 </snippet>
