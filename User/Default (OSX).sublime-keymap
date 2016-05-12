@@ -1,16 +1,28 @@
 [{
-		"keys": ["super+alt+a"],
-		"command": "alignment"
-	}, {
-		"keys": ["ctrl+super+z"],
-		"command": "sublimelinter_show_all_errors"
-	}, {
-		"keys": ["super+alt+r"],
-		"command": "show_panel",
-		"args": {
-			"panel": "replace",
-			"reverse": false
-		}
+	"keys": ["shift+alt+a"],
+	"command": "alignment"
+}, {
+	"keys": ["ctrl+super+z"],
+	"command": "sublimelinter_show_all_errors"
+}, {
+	"keys": ["super+alt+r"],
+	"command": "show_panel",
+	"args": {
+		"panel": "replace",
+		"reverse": false
 	}
-
-]
+}, {
+	"keys": ["tab"],
+	"command": "expand_abbreviation_by_tab",
+	"context": [{
+		"operand": "source.js.jsx",
+		"operator": "equal",
+		"match_all": true,
+		"key": "selector"
+	}, {
+		"key": "selection_empty",
+		"operator": "equal",
+		"operand": true,
+		"match_all": true
+	}]
+}]

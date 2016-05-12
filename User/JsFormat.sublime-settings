@@ -1,5 +1,6 @@
 {
-    // exposed jsbeautifier options
-    "indent_with_tabs": false,
-    "format_on_save": true
+  // exposed jsbeautifier options
+  "indent_with_tabs": false,
+  "format_on_save": false,
+  "autoformat": false
 }

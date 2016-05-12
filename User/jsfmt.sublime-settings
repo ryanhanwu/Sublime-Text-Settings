@@ -1,32 +1,31 @@
 {
-  // autoformat on save
+  "alert-errors": false,
   "autoformat": true,
-
-  // array of extensions for autoformat
-  "extensions": ["jsx", "sublime-settings"],
-
-  // options for jsfmt
+  "extensions": [
+    "js",
+    "jsx",
+    "sublime-settings"
+  ],
+  "ignore-selection": false,
+  "node-path": "node",
   "options": {
-    "preset": "jquery",
     "indent": {
-      "value": "    "
+      "value": "  "
     },
-    // plugins included
+    "jsx": {
+      "alignWithFirstAttribute": true,
+      "attrsOnSameLineAsTag": false,
+      "firstAttributeOnSameLine": true,
+      "formatJSX": true,
+      "maxAttrsOnTag": 1
+    },
     "plugins": [
       "esformatter-quotes",
       "esformatter-braces",
       "esformatter-dot-notation",
       "esformatter-jsx"
     ],
-    "jsx": {
-      "formatJSX": true,
-      // change these to your preferred values
-      // refer to https://github.com/royriojas/esformatter-jsx#best-configuration for more options
-      "attrsOnSameLineAsTag": false,
-      "maxAttrsOnTag": 2,
-      "firstAttributeOnSameLine": true,
-      "alignWithFirstAttribute": true
-    }
+    "preset": "jquery"
   },
   "options-JSON": {
     "plugins": [
@@ -35,9 +34,5 @@
     "quotes": {
       "type": "double"
     }
-  },
-
-  "node-path": "node",
-  "alert-errors": true,
-  "ignore-selection": false
+  }
 }
