@@ -47,6 +47,7 @@
 		"Indent XML",
 		"Jade",
 		"Jade Build",
+		"JavaScript Completions",
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"jsfmt",
@@ -84,6 +85,7 @@
 		"Syntax Highlighting for Sass",
 		"TernJS",
 		"Theme - Cobalt2",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"WebdriverIO"
 	]
 }

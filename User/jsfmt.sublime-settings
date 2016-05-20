@@ -17,14 +17,20 @@
       "attrsOnSameLineAsTag": false,
       "firstAttributeOnSameLine": true,
       "formatJSX": true,
-      "maxAttrsOnTag": 1
+      "maxAttrsOnTag": 2
     },
     "plugins": [
       "esformatter-quotes",
       "esformatter-braces",
       "esformatter-dot-notation",
+      "esformatter-remove-trailing-commas",
       "esformatter-jsx"
     ],
+    "pipe": {
+      "after": [
+        "es-strip-semicolons"
+      ]
+    },
     "preset": "jquery"
   },
   "options-JSON": {
