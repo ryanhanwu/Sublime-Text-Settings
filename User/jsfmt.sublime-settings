@@ -27,9 +27,7 @@
       "esformatter-jsx"
     ],
     "pipe": {
-      "after": [
-        "es-strip-semicolons"
-      ]
+      "after": []
     },
     "preset": "jquery"
   },
