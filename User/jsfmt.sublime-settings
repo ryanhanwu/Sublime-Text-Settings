@@ -10,7 +10,8 @@
   "node-path": "node",
   "options": {
     "indent": {
-      "value": "  "
+      "value": "  ",
+      "TopLevelFunctionBlock": 1
     },
     "jsx": {
       "alignWithFirstAttribute": true,
