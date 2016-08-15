@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+Promise.all([p1, p2, p3]).then(values => {
+  $1
+})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>Promise.all</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+    <description>Promise All</description>
+</snippet>

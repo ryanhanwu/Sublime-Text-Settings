@@ -4,12 +4,34 @@
 		"Rhizr",
 		"Edlab"
 	],
+	"binary_file_patterns":
+	[
+		".DS_Store",
+		".gitignore",
+		"*.ai",
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.psd",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		".meteor/local/**",
+		"local/**"
+	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Hopscotch (SL).tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
-	"font_size": 17,
+	"font_size": 18,
 	"highlight_line": true,
 	"ignored_packages":
 	[
