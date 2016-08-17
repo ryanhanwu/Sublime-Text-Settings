@@ -28,6 +28,7 @@
     },
     {
         "class": "sidebar_label",
+        "font.size":12,
         "color": [
             230,
             221,

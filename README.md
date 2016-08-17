@@ -18,5 +18,5 @@ brew upgrade
 
 ```
 nvm use system
-npm install esling eslint-plugin-react eslint-plugin-react-native -g
+npm install eslint eslint-plugin-react eslint-plugin-react-native -g
 ```
