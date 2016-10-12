@@ -1,8 +1,6 @@
 {
 	"added_words":
 	[
-		"Rhizr",
-		"Edlab"
 	],
 	"binary_file_patterns":
 	[
@@ -31,7 +29,7 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
-	"font_size": 15,
+	"font_size": 17,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -44,15 +42,10 @@
 		"Haskell",
 		"LaTeX",
 		"Lisp",
-		"LiveReload",
-		"LiveStyle",
-		"MacTerminal",
 		"Matlab",
-		"Meteor Snippets",
 		"Pascal",
 		"Rails",
-		"Rust",
-		"Sass"
+		"Rust"
 	],
 	"indent_guide_options":
 	[
@@ -62,10 +55,10 @@
 	"indent_to_bracket": true,
 	"index_exclude_patterns":
 	[
-		"/Users/ryanwu/.meteor/local*",
+		"node_modules/*",
 		"*.log",
-		".editorconfig",
-		"/Users/ryanwu/workspace/edlab-cas/server*"
+		".meteor/*",
+		".git/*"
 	],
 	"match_brackets_angle": true,
 	"reveal-on-activate": true,
