@@ -1,6 +1,6 @@
 {
-  "alert-errors": false,
-  "autoformat": true,
+  "alert-errors": true,
+  "autoformat": false,
   "extensions": [
     "js",
     "jsx",

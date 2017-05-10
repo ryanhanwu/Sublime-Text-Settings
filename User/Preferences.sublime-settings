@@ -4,8 +4,6 @@
 	],
 	"binary_file_patterns":
 	[
-		".DS_Store",
-		".gitignore",
 		"*.ai",
 		"*.dds",
 		"*.eot",
@@ -21,7 +19,10 @@
 		"*.tga",
 		"*.ttf",
 		"*.zip",
+		".DS_Store",
+		".gitignore",
 		".meteor/local/**",
+		".tmp/**",
 		"local/**"
 	],
 	"bold_folder_labels": true,
@@ -29,23 +30,33 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
-	"font_size": 17,
+	"font_size": 21,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"ActionScript",
+		"Babel Snippets",
 		"C#",
 		"C++",
 		"Clojure",
 		"Erlang",
-		"Groovy",
 		"Haskell",
 		"LaTeX",
 		"Lisp",
+		"LiveReload",
+		"LiveStyle",
 		"Matlab",
+		"Meteor Snippets",
+		"Mocha Snippets",
 		"Pascal",
 		"Rails",
-		"Rust"
+		"React ES6 Snippets",
+		"Rust",
+		"Sass",
+		"SublimeLinter-jshint",
+		"tern_for_sublime",
+		"TrailingSpaces",
+		"WebdriverIO"
 	],
 	"indent_guide_options":
 	[

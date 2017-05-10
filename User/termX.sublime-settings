@@ -1,0 +1,5 @@
+{
+    "terminal" :  "terminal/iterm/hyper",
+    "directory_mode" : "file/project",
+    "debug" : true,
+}
