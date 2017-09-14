@@ -30,7 +30,7 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
-	"font_size": 21,
+	"font_size": 17,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -40,10 +40,10 @@
 		"C++",
 		"Clojure",
 		"Erlang",
+		"FormatLua",
 		"Haskell",
 		"LaTeX",
 		"Lisp",
-		"LiveReload",
 		"LiveStyle",
 		"Matlab",
 		"Meteor Snippets",
